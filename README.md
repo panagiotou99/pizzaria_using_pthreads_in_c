@@ -1,0 +1,2 @@
+# pizzaria_using_pthreads_in_c
+pizzaria_using_thread_in_c
